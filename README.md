@@ -29,11 +29,11 @@ An interactive and user-friendly Android application designed to assess and impr
 
 ## 🧩 Modules
 
-- **User Authentication** *(optional)*
+- **User Authentication** 
 - **Quiz Interface** with Timer
 - **Score Calculator**
 - **Question Bank**
-- **Admin Panel** *(optional)*
+- **Admin Panel** 
 - **Progress Tracker**
 
 ## 📱 User Guide
@@ -49,7 +49,7 @@ An interactive and user-friendly Android application designed to assess and impr
 2. **Category Selection Screen**
 3. **Quiz Interface Screen**
 4. **Result Summary Screen**
-5. **Admin Management Panel** *(optional)*
+5. **Admin Management Panel** 
 
 ## 📊 Diagrams
 
